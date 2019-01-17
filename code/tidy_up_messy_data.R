@@ -1,7 +1,8 @@
 ### below script is a perfect example of tidying up messy data using tidyverse
 # readxl - read xlsx
 # dplyr - data wrangling
-# purrr - mapping, nesting
+# purrr - mapping
+# tidyr - nesting
 # stringr - string manipulation
 # lubridate - date manipulation
 # ggplot2 - visualization
